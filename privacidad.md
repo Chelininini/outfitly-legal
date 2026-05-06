@@ -3,7 +3,7 @@
 **Fecha de entrada en vigor:** 6 de mayo de 2026
 
 **1. DECLARACIÓN GENERAL**
-El presente documento establece las políticas de privacidad y manejo de datos personales aplicables a la aplicación móvil "Outfitly" (en adelante, "la Aplicación"), desarrollada y mantenida por Marcelo Antonio Gutierrez Diaz (en adelante, "el Desarrollador"), con domicilio para efectos de este documento en Santa Catarina, Nuevo León, México. Al descargar, instalar y utilizar la Aplicación, el usuario (en adelante, "el Usuario") acepta expresamente las prácticas detalladas en esta Política de Privacidad.
+El presente documento establece las políticas de privacidad y manejo de datos personales aplicables a la aplicación móvil "Outfitly" (en adelante, "la Aplicación"), desarrollada y mantenida por Marcelo Antonio Gutiérrez Diaz, Roberto Carlos Martínez Hernández, Josué Isaías Gutiérrez Ibarra, Ingrid Magaly Ramírez Aradillas, Ilse Madai Rodríguez Pérez y Victoria Sulamit García Romo (en adelante, "los Desarrolladores"), con domicilio para efectos de este documento en Santa Catarina, Nuevo León, México. Al descargar, instalar y utilizar la Aplicación, el usuario (en adelante, "el Usuario") acepta expresamente las prácticas detalladas en esta Política de Privacidad.
 
 **2. INFORMACIÓN RECOPILADA Y FINALIDAD DEL TRATAMIENTO**
 La Aplicación recopila y procesa información estrictamente necesaria para su funcionamiento operativo y la prestación de sus servicios basados en Inteligencia Artificial. Los datos recopilados se clasifican de la siguiente manera:
