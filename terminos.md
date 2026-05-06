@@ -6,7 +6,7 @@
 El presente contrato (en adelante, "los Términos") describe las condiciones generales aplicables al uso de las funcionalidades ofrecidas por la aplicación móvil Outfitly (en adelante, "la Aplicación"). Al acceder, descargar, instalar o utilizar la Aplicación, usted adquiere la condición de Usuario y declara expresamente haber leído, entendido y aceptado en su totalidad los presentes Términos. Si no está de acuerdo con estos Términos, deberá abstenerse de utilizar la Aplicación.
 
 **2. LICENCIA DE USO**
-Marcelo Antonio Gutierrez Diaz ("el Desarrollador") otorga al Usuario una licencia personal, no exclusiva, intransferible, revocable y limitada para acceder y utilizar la Aplicación en un dispositivo móvil compatible de su propiedad o bajo su control, estrictamente de acuerdo con estos Términos. 
+Marcelo Antonio Gutiérrez Diaz, Roberto Carlos Martínez Hernández, Josué Isaías Gutiérrez Ibarra, Ingrid Magaly Ramírez Aradillas, Ilse Madai Rodríguez Pérez y Victoria Sulamit García Romo ("los Desarrolladores") otorgan al Usuario una licencia personal, no exclusiva, intransferible, revocable y limitada para acceder y utilizar la Aplicación en un dispositivo móvil compatible de su propiedad o bajo su control, estrictamente de acuerdo con estos Términos.
 
 **3. RESTRICCIONES DE USO**
 El Usuario se compromete a utilizar la Aplicación de conformidad con la ley, la moral y el orden público. Queda estrictamente prohibido:
